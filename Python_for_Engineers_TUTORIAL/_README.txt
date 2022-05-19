@@ -1,0 +1,2 @@
+#This files are coded according to tips available on website https://oprojektowaniu.pl/tag/python-dla-inzynierow/
+#Very thanks to Mr.Zdanowicz who is author of Python Excersises for Civil Engineers !!!
