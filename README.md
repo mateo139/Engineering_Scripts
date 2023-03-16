@@ -9,3 +9,6 @@ If You are interested in static bearings systems applied in building engineering
 ```
 https://builderpolska.pl/2022/07/20/lozyska-elastomerowe-calenberg-we-wspolczesnych-konstrukcjach-prefabrykowanych/
 ```
+
+![image](https://user-images.githubusercontent.com/103432222/225709099-5f5e801d-aa5b-4582-b94b-3ff2c8d2e8d6.png)
+
